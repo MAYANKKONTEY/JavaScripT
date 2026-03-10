@@ -1,0 +1,4 @@
+1j. Use document.body.innerHTML = ...; to make the web page blank.
+
+sol : document.body.innerHTML = ''
+'' = you get page blank
