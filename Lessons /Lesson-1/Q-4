@@ -1,0 +1,4 @@
+1f. Use document.body.innerHTML = ...; to display 'Good morning!' on the web page.
+
+sol: document.body.innerHTML = 'Good morning!'
+ = 'Good morning!'
